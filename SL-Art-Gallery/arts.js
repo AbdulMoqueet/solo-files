@@ -119,7 +119,27 @@ var arts = [
     {
         name:"ꌗꋬ✴",
         link:"22.jpg"
-    }   
+    },
+    {
+        name:"Chicx",
+        link:"24.jpg"
+    },
+    {
+        name:"Shreyansh",
+        link:"25.jpg"
+    },
+    {
+        name:"Kavi Rash",
+        link:"26.jpg"
+    },
+    {
+        name:"Kratika Soni",
+        link:"27.jpg"
+    },
+    {
+        name:"Sick L̲̅i̲̅n̲̅e̲̅ B̶r̶o̶🌡️",
+        link:"end.jpg"
+    }
 ];
 
 var baseUrl = "https://abdul-moqueet.github.io/solo-files/SL-Art-Gallery/";
