@@ -4,16 +4,16 @@ var arts = [
         link:"1.jpg"
     },
     {
-        name:"Sick L̲̅i̲̅n̲̅e̲̅ B̶r̶o̶🌡️",
-        link:"2.jpg"
+        name:"ѕραяѕнιкα 🎀",
+        link:"4.jpg"
     },
     {
         name:"Abhinaya",
         link:"3.jpg"
     },
     {
-        name:"ѕραяѕнιкα 🎀",
-        link:"4.jpg"
+        name:"Sick L̲̅i̲̅n̲̅e̲̅ B̶r̶o̶🌡️",
+        link:"2.jpg"
     },
     
     {
@@ -66,6 +66,10 @@ var arts = [
         link:"16.jpg"
     },
     {
+        name:"N.N.I",
+        link:"23.jpg"
+    },
+    {
         name:"RKK",
         link:"17.jpg"
     },
@@ -76,7 +80,19 @@ var arts = [
     {
         name:"Muhammad Abdurahman",
         link:"19.jpg"
-    }    
+    },
+    {
+        name:"Chinonso",
+        link:"20.jpg"
+    },
+    {
+        name:"Raj Sadaye",
+        link:"21.jpg"
+    },
+    {
+        name:"ꌗꋬ✴",
+        link:"22.jpg"
+    }   
 ];
 
 var baseUrl = "https://abdul-moqueet.github.io/solo-files/SL-Art-Gallery/";
