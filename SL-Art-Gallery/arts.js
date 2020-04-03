@@ -179,6 +179,11 @@ var arts = [
         post:"282954"
     },
     {
+        name:"Mushkan Bhatia",
+        link:"30.jpg",
+        post:"282678"
+    },
+    {
         name:"ManishA Sahu 😉",
         link:"28.jpg",
         post:"282635"
