@@ -194,6 +194,11 @@ var arts = [
         post:"282635"
     },
     {
+        name:"🌸RIMJHIM🌸",
+        link:"32.jpg",
+        post:"287493"
+    },
+    {
         name:"Sick L̲̅i̲̅n̲̅e̲̅ B̶r̶o̶🌡️",
         link:"end.jpg",
         post:"281811"
