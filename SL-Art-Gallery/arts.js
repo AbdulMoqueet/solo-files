@@ -39,6 +39,11 @@ document[_0x1ce1('0x1')][_0x1ce1('0x2')](footer);
 
 var arts = [
     {
+        name:"Hyouka-5k💕",
+        link:"first.jpg",
+        post:"undefined"
+    },
+    {
         name:"Sick L̲̅i̲̅n̲̅e̲̅ B̶r̶o̶🌡️",
         link:"1.jpg",
         post:"277977"
