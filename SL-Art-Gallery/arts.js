@@ -209,8 +209,8 @@ var arts = [
         post:"281811"
     },
     {
-	name:"ᏒᎥmjhᎥm🌧"
-	link:"33.jpg"
+	name:"ᏒᎥmjhᎥm🌧",
+	link:"33.jpg",
 	post:"379554"
     }
 ];
