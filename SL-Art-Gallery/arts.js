@@ -207,6 +207,11 @@ var arts = [
         name:"Sick L̲̅i̲̅n̲̅e̲̅ B̶r̶o̶🌡️",
         link:"end.jpg",
         post:"281811"
+    },
+    {
+	name:"ᏒᎥmjhᎥm🌧"
+	link:"33.jpg"
+	post:"379554"
     }
 ];
 
