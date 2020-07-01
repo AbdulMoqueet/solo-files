@@ -27,7 +27,7 @@ document[_0x1ce1('0x1')][_0x1ce1('0x2')](footer);
     
     const loader = document.querySelector(".loader");
     var img = document.createElement("img");
-    img.src = "https://abdul-moqueet.github.io/solo-files/SL-Art-Gallery/the_blood_coder.jpg";
+    img.src = "https://abdulmoqueet.github.io/solo-files/SL-Art-Gallery/the_blood_coder.jpg";
     loader.appendChild(img);
     
     var text = document.createElement("p");
@@ -215,6 +215,6 @@ var arts = [
     }
 ];
 
-const baseUrl = "https://abdul-moqueet.github.io/solo-files/SL-Art-Gallery/";
+const baseUrl = "https://abdulmoqueet.github.io/solo-files/SL-Art-Gallery/";
 const baseLink="https://www.sololearn.com/post/";
 const suffix="?ref=app";
